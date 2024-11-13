@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @vasq2d
 - 👀 I’m interested in Aerospace, Thermal Sciences, Design, Robotics, Drones, Manufacturing
-- 🌱 I’m currently studying Mechanical Engineering at the University of Nebraska-Lincoln
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently a senior studying Mechanical Engineering at the University of Nebraska-Lincoln
+
 
 <!---
 vasq2d/vasq2d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
